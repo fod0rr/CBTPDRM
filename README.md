@@ -21,6 +21,10 @@ A Aplicação Teste é um aplicativo simples com uma tela de login que permite a
 4.  Na tela de login, insira o ID e a senha nos campos correspondentes.
 5.  Utilize os botões "OK", "Limpar" e "Créditos" conforme necessário.
 
+## Vídeo
+
+![Teste Funcioanndo](./TP01_PRDM.gif)
+
 ## Créditos
 
 Desenvolvido por:
